@@ -1,3 +1,3 @@
 CFLAGS = -O2 -Wall -W -std=gnu99
 
-all: dis-cic
+all: dis-cic emu
